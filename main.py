@@ -10,7 +10,7 @@ root.title("Image to ASCII")
 b = tk.Label(root, text="path: ")
 
 a = ""
-txt = tk.Text(root, font=("monospace", 2), width=900, height=900)
+txt = tk.Text(root, font=("monospace", 2), width=500, height=200)
 
 def select_image():
     global a
