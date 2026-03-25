@@ -21,5 +21,5 @@ Converts any image into ASCII characters, simply import your image and then copy
 
 ## Screenshots
 
-![Sebastian Vettel at the Indian Grand Prix 2013][/pics/seb.png]
-![Arch Linux Logo][/pics/arch.png]
+![Sebastian Vettel at the Indian Grand Prix 2013][./pics/seb.png]
+![Arch Linux Logo][./pics/arch.png]
